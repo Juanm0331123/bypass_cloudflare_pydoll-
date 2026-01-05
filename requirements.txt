@@ -1,0 +1,4 @@
+undetected-chromedriver
+setuptools
+curl_cffi
+pydoll-python
